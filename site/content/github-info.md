@@ -27,7 +27,7 @@ Short, practical highlights from the latest GitHub news (October 2026).
 
 ### GitHub Changelog
 
-- [Dynamic workflows in Copilot CLI and the Copilot app](https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app)
-- [Copilot code review API support and new default effort level](https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level)
-- [GitHub async merge API generally available](https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available)
-- [GitHub Actions: macOS 14 runner image retirement](https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement) — check your `runs-on` labels.
+- [Prioritize Dependabot alerts with reachability analysis](https://github.blog/changelog/2026-10-28-prioritize-dependabot-alerts-with-reachability-analysis)
+- [Push protection beyond predefined secret patterns](https://github.blog/changelog/2026-10-28-push-protection-beyond-predefined-secret-patterns)
+- [Work from anywhere with a new connected Copilot cloud experience](https://github.blog/changelog/2026-10-28-work-from-anywhere-with-a-new-connected-copilot-cloud-experience)
+- [New tools, triggers, and cost controls for Copilot automations](https://github.blog/changelog/2026-10-28-new-tools-triggers-and-cost-controls-for-copilot-automations)
